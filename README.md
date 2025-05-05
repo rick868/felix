@@ -49,14 +49,6 @@ A passionate person about turning ideas into impactful digital experiences. Whet
 
 ---
 
-### 📊 My “Custom” GitHub Stats
-
-![Total Stars](https://img.shields.io/static/v1?label=Total%20Stars&message=128&color=brightgreen)
-![Commits](https://img.shields.io/static/v1?label=Commits&message=256&color=blue)
-![PRs](https://img.shields.io/static/v1?label=PRs&message=64&color=orange)
-![Issues](https://img.shields.io/static/v1?label=Issues&message=32&color=yellow)
-![Contributions%20(1yr)](https://img.shields.io/static/v1?label=Contributions%20(1yr)&message=512&color=purple)
-![GitHub%20Grade](https://img.shields.io/static/v1?label=GitHub%20Grade&message=B%2B&color=blueviolet)
 
 #### 🔥 Most Used Languages
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)

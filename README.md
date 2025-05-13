@@ -1,4 +1,4 @@
-# 👋 Hello   Great People! I'm Felix Njoroge Gishu
+# Felix  Gishu
 
 ## 💻 Software Engineer | 🌐 Web Developer | 📱 Mobile Enthusiast | 📊 Data Scientist | 🤖Artificial Engineer
 
